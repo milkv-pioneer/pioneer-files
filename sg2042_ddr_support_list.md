@@ -3,7 +3,7 @@
 |-----|------------------------|-----------------------|-------------------------------|------|-----------------------|-------------------|------|
 | **eg.** | 2042 EVB / 2042 X4 EVB | M4RE-BGS2BC0M-A       | innodisk-2RX8-32GB-3200-RDIMM | 3200 | yes                   | yes               |      |
 |     | Pioneer v1.0           | SCC32GP13H4F1C-32AA   | unilc-2RX8-32G-3200-RDIMM     | 3200 | yes                   | yes               |      |
-|     | Pioneer v1.0-v1.1      | RER432A032G7-WFS100   | longsys-2RX8-32G-3200-RDIMM   | 3200 | yes                   | yes               |      |
+|     | Pioneer v1.0-v1.2      | RER432A032G7-WFS100   | longsys-2RX8-32G-3200-RDIMM   | 3200 | yes                   | yes               |      |
 |     | 2042R EVB              | M4SE-8GSSOC0M-FBT     | innodisk-2RX8-8GB-3200-SODIMM | 3200 | yes                   | yes               |      |
 |     | 2042 EVB / 2042 X4 EVB | SCQ32GP13M3F1C-32AA   | unilc-2RX8-32GB-3200-RDIMM    | 3200 | yes                   | yes               |      |
 |     | 2042 EVB / 2042 X4 EVB | HMAA4GR7CJR8N - XT    | hynix-2RX8-32GB-3200-RDIMM    | 3200 | yes                   | yes               |      |
